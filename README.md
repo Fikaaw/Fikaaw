@@ -1,4 +1,4 @@
-### Hi👋 I'm Ara!
+### Hi👋 I'm Fika!
 
 - 🔭 I’m currently Economics Finance Student in [Brawijaya University](https://ie.feb.ub.ac.id/ekp/)
 - 🌱 I’m currently learning Machine Learning Path at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
