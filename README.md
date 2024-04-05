@@ -1,7 +1,7 @@
 ### Hi👋 I'm Fika!
 
 - 🔭 I’m currently Economics Finance Student in [Brawijaya University](https://ie.feb.ub.ac.id/ekp/)
-- 🌱 I’m currently learning Machine Learning Path at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
+- 🌱 I’m Graduated Machine Learning Student at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
 - 🤔 I’m looking for help with increase my knowledge and portfolio
 - 📫 How to reach n connect wimme: [Linktr.ee](https://linktr.ee/keenaragg)
 - 😄 Pronouns: she/her
