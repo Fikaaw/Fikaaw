@@ -16,7 +16,6 @@ Hi, I'm Fika!👋
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-orange.svg?logo=tensorflow&logoColor=white">
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red.svg?logo=pytorch&logoColor=white">
   <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-orange.svg?logo=scikitlearn&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff.svg?logo=fastapi&logoColor=02b3aa">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-black.svg?logo=flask&logoColor=white">
 </p>
 
