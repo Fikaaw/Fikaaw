@@ -33,6 +33,18 @@ Hi, I'm Fika!👋
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/idaafiqaa)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/keenaragg/)
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Fikaaw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikaaw&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+### Github Stats
+
+<div align="center">
+<a href="https://github.com/Fikaaw">
+  <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikaaw&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fikaaw&theme=vue-dark&hide_border=true&count_private=true"/>
+</a>
+</div>
+
+<hr>
+<div align=center>
+  <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif">
+</div>
 
 
