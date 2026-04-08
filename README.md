@@ -1,6 +1,5 @@
 Hi, I'm Fika!👋
 
-- 🔭 I’m a Data Scientist and Machine Learning Engineer
 - 😄 I like to learn new thing
 
 ### Languages
